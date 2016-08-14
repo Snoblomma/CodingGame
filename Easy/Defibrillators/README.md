@@ -10,12 +10,12 @@ The input data you require for your program is provided in text format.
 This data is comprised of lines, each of which represents a defibrillator. 
 Each defibrillator is represented by the following fields:
 
-*A number identifying the defibrillator
-*Name
-*Address
-*Contact Phone number
-*Longitude (degrees)
-*Latitude (degrees)
+* A number identifying the defibrillator
+* Name
+* Address
+* Contact Phone number
+* Longitude (degrees)
+* Latitude (degrees)
 
 These fields are separated by a semicolon (;).
 
