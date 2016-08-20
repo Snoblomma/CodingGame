@@ -1,5 +1,3 @@
-package level1;
-
 import java.util.*;
 import java.io.*;
 import java.math.*;
