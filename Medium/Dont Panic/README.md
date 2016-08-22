@@ -34,10 +34,10 @@ The goal is to save at least one clone in a limited amount of rounds.
 
 You win if at least one clone reaches the exit location in a limited amount of game rounds
 
-*Note: 
-Don’t forget to run the tests by launching them from the “Test cases” window.
+*Note:*
+*Don’t forget to run the tests by launching them from the “Test cases” window.*
 
-The tests provided are similar to the validation tests used to compute the final score but are slightly different.*
+*The tests provided are similar to the validation tests used to compute the final score but are slightly different.*
 
 **Game Input**
 
