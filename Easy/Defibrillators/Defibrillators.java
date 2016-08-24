@@ -1,10 +1,8 @@
-package level1;
-
 import java.util.*;
 import java.io.*;
 import java.math.*;
 
-class Defibrillators {
+class Solution {
 	
 	 public static void main(String args[]) {
 		double min = 20036; //longest distance on Earth
@@ -17,6 +15,17 @@ class Defibrillators {
         double LATa = Double.valueOf(LAT.replace(',', '.'));
         int N = in.nextInt();
         in.nextLine(); 
+              
+        if(N==1)
+        {
+        	String input[] = new String[6];
+        	String DEFIB = in.nextLine();
+            input = DEFIB.split(";");
+        	res = input[1];
+        	System.out.println(res);
+        }      
+         
+         else{
               
         for (int i = 0; i < N; i++) {
         	String input[] = new String[6];
@@ -35,6 +44,6 @@ class Defibrillators {
             	res = input[1];
             }
         }
-        System.out.println(res);
+        System.out.println(res);}
     }	
 }

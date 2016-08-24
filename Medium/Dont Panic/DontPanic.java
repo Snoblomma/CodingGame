@@ -1,8 +1,6 @@
-package level2;
-
 import java.util.*;
 
-class DontPanic {
+class Player {
 
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
