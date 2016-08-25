@@ -48,9 +48,15 @@ A **single line** with 2 integers X Y separated by a space character. (X, Y) rep
 **Constraints**
 
 1 ≤ W ≤ 10000
+
 1 ≤ H ≤ 10000
+
 2 ≤ N ≤ 100
+
 0 ≤ X, X0 < W
+
 0 ≤ Y, Y0 < H
+
 Response time per turn ≤ 150ms
+
 Response time per turn ≤ 150ms
