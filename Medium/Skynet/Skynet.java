@@ -1,8 +1,6 @@
-package level2;
-
 import java.util.*;
 
-class SkynetLevel2 {
+class Player {
 
 	private static String res;
 	
